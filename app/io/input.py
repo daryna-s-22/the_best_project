@@ -12,7 +12,7 @@ def read_input_from_console():
     return input("Enter text: ")
 
 
-def read_input_from_file_with_using_built_in_features(filepath):
+def read_input_from_file_with_using_built_in_capabilities(filepath):
     """
     Reads text from a file using built-in Python capabilities.
 
